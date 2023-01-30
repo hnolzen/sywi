@@ -1,2 +1,2 @@
-# Sywi -- Introduction
+# Sywi - Introduction
 
