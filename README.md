@@ -1,6 +1,6 @@
 # Applied Systems Science
 
-In this repository I am collecting notes and material on applied systems science, which I will use to create an [mdbook](https://github.com/rust-lang/mdBook).
+In this repository I am collecting notes and material about Applied Systems Science, which I will use to create an [mdbook](https://github.com/rust-lang/mdBook).
 
 
 ### Motivation
