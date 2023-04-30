@@ -7,6 +7,7 @@
 	- [What is Applied Systems Science?](./introduction/what_is_systems_science.md)
 		- [Aims of Applied Systems Science](./.md) 
 - [History of Systems Science](./history.md)
+	- [Cybernetics](./history/cybernetics.md)
 	- [General Systems Theory](./history/general_systems_theory.md)
 - [Basic concepts and methods](./basic_concepts.md)
 	- [Emergence](./emergence.md)
